@@ -11,8 +11,8 @@
     { "src": "/fmpass", "dest": "/fmpass.js" },
     { "src": "/tm", "dest": "/tm.js" },
     { "src": "/tmpass", "dest": "/tmpass.js" },
-    { "src": "/dhada", "dest": "/dhada.js" },
-    { "src": "/dhadapass", "dest": "/dhadapass.js" },
+    { "src": "/fwd", "dest": "/fwd.js" },
+    { "src": "/fwdpass", "dest": "/fwdpass.js" },
     { "src": "/gnd", "dest": "/gnd.js" },
     { "src": "/gndpass", "dest": "/gndpass.js" },
     { "src": "/asifpass", "dest": "/asifpass.js" }
